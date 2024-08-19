@@ -1,5 +1,4 @@
 import React from "react";
-import banner from "../../public/banner.png";
 import { ReactTyped } from "react-typed";
 import { Link } from "react-router-dom";
 
@@ -48,7 +47,7 @@ function Banner() {
       </div>
       <div className=" order-1 w-full md:w-1/2">
         {/* You can add content here if needed */}
-        <img src={banner} className="w-92 h-92 mt-16 ml-4" alt="" />
+        <img src='/banner.png' className="w-92 h-92 mt-16 ml-4" alt="" />
       </div>
     </div>
   );

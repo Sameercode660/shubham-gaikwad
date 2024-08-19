@@ -4,7 +4,7 @@
         "name": "Residance for Girls",
           
         "category": "Ad",
-        "image": "../../public/crystal_girls.jpg",
+        "image": "/crystal_girls.jpg",
         "link": "https://web.whatsapp.com/",
         "description": "Contact: 9284601560"
     },
@@ -14,7 +14,7 @@
         
         
         "category": "Ad",
-        "image": "../../public/rajmata_girls.jpg",
+        "image": "/rajmata_girls.jpg",
         "description": "Contact: 9373230021"
     },
     {
@@ -23,7 +23,7 @@
         
 
         "category": "Ad",
-        "image": "../../public/classic_boys.jpg",
+        "image": "/classic_boys.jpg",
         "description": "Contact: 9373230021"
     },
     {
@@ -32,7 +32,7 @@
         
 
         "category": "Ad",
-        "image": "../../public/rajmata_girls.jpg",
+        "image": "/rajmata_girls.jpg",
         "description": "Contact: 9373230021"
     },
     {
@@ -41,7 +41,7 @@
         
         "price": 59,
         "category": "Ad",
-        "image": "../../public/truss.jpeg",
+        "image": "/truss.jpeg",
         "description": "All needed information about truss models will be provided."
     },
 
